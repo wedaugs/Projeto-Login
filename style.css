@@ -277,17 +277,14 @@ input {
     padding: 0 20px;
   }
 
-  /* Esconder o overlay no mobile */
   .overlay-container {
     display: none;
   }
 
-  /* Mostrar os botões de toggle mobile */
   .mobile-toggle {
     display: block;
   }
 
-  /* Ajuste de visibilidade manual para mobile */
   .sign-in-container {
     z-index: 2;
     opacity: 1;
@@ -299,7 +296,6 @@ input {
     pointer-events: none; /* Impede clique quando invisível */
   }
 
-  /* Lógica Mobile: Quando ativo, inverto a visibilidade */
   .container.right-panel-active .sign-in-container {
     transform: translateX(0); /* Remove o slide lateral */
     opacity: 0;
