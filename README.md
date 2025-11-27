@@ -25,7 +25,6 @@ Este projeto simula uma tela de login real, com campos de validação visual e f
 O layout foi desenvolvido com foco na experiência do usuário (UX), utilizando cores contrastantes e espaçamento adequado para facilitar a leitura.
 
 
-![Imagem do Projeto](src/Login-capture.png)
 ![unknownLogin](https://github.com/user-attachments/assets/8c9073f8-7887-448e-8f5f-411dfe8df01f)
 
 
